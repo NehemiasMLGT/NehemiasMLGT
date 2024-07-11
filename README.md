@@ -13,8 +13,8 @@ I am a software engineer with around 15 years of experience, specializing in web
 
 ## Skills
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-![Appium](https://img.shields.io/badge/Appium-007396?style=for-the-badge&logo=appium&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-007396?style=for-the-badge&logo=Playwright&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-8A2BE2?style=for-the-badge&logo=appium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-90E59A?style=for-the-badge&logo=Playwright&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
